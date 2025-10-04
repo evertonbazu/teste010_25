@@ -1,0 +1,5 @@
+{
+  "name": "Math Quiz: Percentages",
+  "description": "An interactive quiz game to practice percentage calculations, featuring login, scoring, and a leaderboard. Designed for students to test and improve their math skills in a fun way.",
+  "requestFramePermissions": []
+}
